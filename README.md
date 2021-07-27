@@ -1,10 +1,10 @@
 ### Paper List
 
 #### Year 2019
-[A structured model for action detection](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Structured_Model_for_Action_Detection_CVPR_2019_paper.pdf)
+[A structured model for action detection. CVPR 2019.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Structured_Model_for_Action_Detection_CVPR_2019_paper.pdf)
 
 #### Year 2020
-[Context-Aware RCNN: A Baseline for Action Detection in Videos](https://arxiv.org/abs/2007.09861)
+[Context-Aware RCNN: A Baseline for Action Detection in Videos. ECCV 2020.](https://arxiv.org/abs/2007.09861)
 
 #### Year 2021
 
